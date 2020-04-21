@@ -19,7 +19,7 @@ namespace HelloWorldWinform
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("뻥이야", "이걸 속네");
         }
     }
 }

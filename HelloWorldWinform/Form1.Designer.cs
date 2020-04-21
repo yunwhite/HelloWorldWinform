@@ -49,7 +49,7 @@
             this.ClientSize = new System.Drawing.Size(313, 207);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "치트";
             this.ResumeLayout(false);
 
         }
