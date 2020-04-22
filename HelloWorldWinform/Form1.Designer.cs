@@ -38,7 +38,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(289, 183);
             this.button1.TabIndex = 0;
-            this.button1.Text = "이거 누르면 롤 플레";
+            this.button1.Text = "이거 누르면 10만원";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
